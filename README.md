@@ -1,7 +1,7 @@
 # OPENCART 2.3.x feed generator
 Module for generate xml feeds for hotline, price.ua and e-catalog
 
-A small module for creating upload files on the aggregator site (hotline, price.ua, electronic catalog).
+A small module for creating upload files on the aggregator site (hotline, price.ua, e-catalog).
 I had serious demands for quick solutions.
 The module generates XML feeds and requires additional configuration for a specific store. It can serve as a starting point for creating a more functional module.
 
