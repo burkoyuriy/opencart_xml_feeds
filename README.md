@@ -1,4 +1,5 @@
 # OPENCART 2.3.x feed generator
+## XML выгрузка товаров на Hotline.ua, price.ua и e-catalog
 Module for generate xml feeds for hotline, price.ua and e-catalog
 
 A small module for creating upload files on the aggregator site (hotline, price.ua, e-catalog).
