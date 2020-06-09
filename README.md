@@ -18,8 +18,8 @@ In the file admin/controller/extension/module/allxml.php, you can set the desire
 
 #### To generate feeds:
 - $store_url/export/allxml.php?target=price
-- $store_url/export/allxml.php? target=ecatalog
-- $store_url/export/allxml.php? target=hotline?storeid=your_store_id
+- $store_url/export/allxml.php?target=ecatalog
+- $store_url/export/allxml.php?target=hotline?storeid=your_store_id
 
 #### Default path for saving files:
 - https://store_url/export/file/*.xml
